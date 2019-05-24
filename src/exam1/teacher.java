@@ -1,4 +1,4 @@
-package com.bl;
+package exam1;
 
 public class teacher {
 
